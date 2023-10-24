@@ -31,7 +31,8 @@
 ## Amazon VPC 
 - A service that allows you to create isolated virtual networks which can be used to launch AWS resources
 - Subnets-segments of the VPC where you place resources
-![Amazon VPC](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/how-it-works.png)
+
+- ![Amazon VPC](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/how-it-works.png)
 
  
  
