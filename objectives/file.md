@@ -20,7 +20,19 @@
 
 - Star topology(each network connects to a centralized switch)
 
-[Star](https://www.dreamstime.com/stock-image-star-topology-image5183101)
+![Star](https://www.computerhope.com/jargon/s/star.jpg)
+
+- Ethernet is synonymous with wire-based LAN networks and also used in MAN and LAN networks
+- Fast Ethernet(IEEE 802.3u)-developed to support data transmission speeds of upto 100 Mbps,also known as the 100BASE-TX standard
+- Gigabit Ethernet(IEEE 802.3ab)-supports faster communication network to support streaming multimedia and Voice over IP
+- 10 Gigabit Ethernet(IEEE 802.3ab)-transfers data speeds of 10Gbps
+- Terabit Ethernet-transfers data speeds of 200Gbps and 400Gbps
+
+## Amazon VPC 
+- A service that allows you to create isolated virtual networks which can be used to launch AWS resources
+- Subnets-segments of the VPC where you place resources
+![Amazon VPC](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/how-it-works.png)
+
  
  
 
