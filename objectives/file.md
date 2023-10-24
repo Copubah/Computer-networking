@@ -19,7 +19,8 @@
 ![Bus topology](https://thumbs.dreamstime.com/z/bus-topology-diagram-29007878.jpg?w=768)
 
 - Star topology(each network connects to a centralized switch)
-![Star topology](https://www.dreamstime.com/stock-photography-concept-star-network-blackboard-image8885782)
+
+[Star](https://www.dreamstime.com/stock-image-star-topology-image5183101)
  
  
 
